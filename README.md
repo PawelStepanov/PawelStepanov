@@ -1,8 +1,12 @@
 ## Hi there, I'm Pavel Stepanov 👋
 I'm a data scientist and PhD-student in automation of technological processes
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=social&logo=telegram&link=https%3A%2F%2Ft.me%2FTheHITSs"/>
-  <img src="https://img.shields.io/badge/VK-%230077FF?style=social&logo=vk&link=https%3A%2F%2Fvk.com%2Fthehits"/>
+  <a href="https://t.me/TheHITSs">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=social&logo=telegram&link=https%3A%2F%2Ft.me%2FTheHITSs"/>
+  </a>
+  <a href="https://vk.com/thehits">
+    <img src="https://img.shields.io/badge/VK-%230077FF?style=social&logo=vk&link=https%3A%2F%2Fvk.com%2Fthehits"/>
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=PawelStepanov&style=flat-square&color=blue" alt=""/>
