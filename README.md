@@ -15,7 +15,7 @@ I'm a data scientist and PhD-student in automation of technological processes
 
 ### 🙍 About Me :
 
-- 🔭 I’m currently looking for a job
+- 🔭 I am currently working as an ML engineer
 - 🌱 I’m currently learning NLP and CV
 - 📜 I sometimes write scientific articles [elibrary](https://elibrary.ru/author_items.asp?authorid=1195614)
 - 📫 How to reach me: email: stepanovpash@mail.ru, [Telegram](https://t.me/TheHITSs), [VK](https://vk.com/thehits)
