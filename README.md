@@ -24,7 +24,7 @@ I'm a data scientist and PhD in Engineering
 
 ### Languages and Tools :
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" title="Conda" **alt="Git" width="40" height="40"/>
