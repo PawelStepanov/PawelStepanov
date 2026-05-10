@@ -24,7 +24,7 @@ I'm a data scientist and PhD in Engineering
 
 ### Languages and Tools :
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div class="skills">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" title="Conda" **alt="Git" width="40" height="40"/>
@@ -48,6 +48,14 @@ I'm a data scientist and PhD in Engineering
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PawelStepanov&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PawelStepanov&theme=github_dark" alt=""/>
 </div>
+
+<style>
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+</style>
 
 <!--
 **PawelStepanov/PawelStepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
