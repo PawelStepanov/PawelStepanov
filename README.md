@@ -196,15 +196,6 @@ Model output is prepared for integration into a 3D-printing workflow.
   />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawelStepanov&theme=github_dark"
-    alt="GitHub profile details"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawelStepanov&theme=github_dark"
