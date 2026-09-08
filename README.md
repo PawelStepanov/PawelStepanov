@@ -65,20 +65,17 @@ Model output is prepared for integration into a 3D-printing workflow.
 
 <table>
   <tr>
-    <td align="center" width="115">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face"/>
+    <td align="center" width="110">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+           width="45" height="45" alt="Hugging Face"/>
       <br>
       <sub><b>Hugging Face</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="Transformers"/>
-      <br>
-      <sub><b>Transformers</b></sub>
     </td>
   </tr>
 </table>
 
 <p>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logoColor=black" alt="Transformers"/>
   <img src="https://img.shields.io/badge/RAG-4169E1?style=flat-square" alt="RAG"/>
   <img src="https://img.shields.io/badge/AI%20Agents-6A5ACD?style=flat-square" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/LLM%20Applications-222222?style=flat-square" alt="LLM Applications"/>
@@ -153,16 +150,8 @@ Model output is prepared for integration into a 3D-printing workflow.
 
 ### 🗄️ Data & Infrastructure
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-  </tr>
-</table>
-
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square" alt="pgvector"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
