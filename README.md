@@ -41,12 +41,6 @@ RAG and retrieval system for matching industrial products and working with techn
 
 `BM25` · `Embeddings` · `pgvector` · `PostgreSQL` · `LLM Reranking` · `llama.cpp`
 
-- ~90K industrial products
-- Hybrid sparse + dense retrieval
-- Recall@5 ≈ **0.93**
-- Reranking Accuracy@1 ≈ **0.90**
-- Fully offline / on-premise pipeline
-
 ### 👷 PPE Detection
 
 Computer vision system for personal protective equipment detection from industrial CCTV streams.
